@@ -19,9 +19,10 @@ body {
   font-size: 16px;
   line-height: 1.5;
   background-image: url(img/725422.jpg);
-  background-attachment: cover;
+  background-attachment: fixed;
   background-repeat: no-repeat;
-  background-size: center center ;
+  background-position : center center;
+  background-size: cover ;
   color: rgb(254, 252, 251);
 }
 
